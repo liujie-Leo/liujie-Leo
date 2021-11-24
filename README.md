@@ -1,2 +1,2 @@
-![dog](https://www.betterleo.com/images/love.jpeg)
+![dog](https://www.betterleo.com/images/love.png)
 
